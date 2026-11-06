@@ -9,24 +9,25 @@
 ---
 
 ## 何ができるアプリか（3行）
-
+頭・体・手・足・尻尾などのパーツを自由に組み合わせて、自分だけのモンスターを作れる。。
+パーツをの組み合わせによってステータスやランクが決まり、使える技も変化する。
+完成したモンスターの技を選び、ほかの人が作ったモンスターと対戦できる。
 （例：買い物リストを作るアプリ。品名を入力して追加できる。買ったものにチェックを付けると一覧から消える。）
 
 ## 画面
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-10-19 at 11 36 55" src="https://github.com/user-attachments/assets/d9b3e2e9-2c4b-4f16-b5b0-3c93dbd3d486" />
 
 （スクリーンショットを貼る。GitHub の編集画面に画像をドラッグ＆ドロップすると貼れます。）
 
 ## 使った文法・技術
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-10-19 at 11 36 43" src="https://github.com/user-attachments/assets/ff833844-433b-4d94-bd80-63d3032cbf88" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-10-19 at 11 36 51" src="https://github.com/user-attachments/assets/e62ca843-ee58-4de7-a8de-bab6ec383bc8" />
 
 （例：`@State`、`List`、`ForEach`、構造体、配列の `append` と `remove`）
+
+struct、class、var、let、func、if  else、switch case、for、配列 、append、remove、removeAll、enum、Codable、Identifiable、private、@State、@Published、ObservableObject、View、ViewModifier、extension、GeometryReader、ZStack、Circle、RadialGradient、ForEach、withAnimation、Canvas、Path、TimelineView、UUID、guard、do / catch
 
 ## 生成AIの使い方（どの場面で、どう使ったか）
 
 （例：画面の骨組みは ChatGPT に書いてもらった。削除ボタンが効かなかったので、原因を質問して直した。）
-
+dataやSoundなどの書き方、保存はチャットGPTを使い、エフェクトはクロードを使って、BGMはGeminiで作った
 ## 展示で工夫した点
 
 （例：文字を大きくして、来場者が操作しやすいようにした。）
