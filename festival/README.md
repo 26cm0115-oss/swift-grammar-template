@@ -25,9 +25,8 @@
 struct、class、var、let、func、if  else、switch case、for、配列 、append、remove、removeAll、enum、Codable、Identifiable、private、@State、@Published、ObservableObject、View、ViewModifier、extension、GeometryReader、ZStack、Circle、RadialGradient、ForEach、withAnimation、Canvas、Path、TimelineView、UUID、guard、do / catch
 
 ## 生成AIの使い方（どの場面で、どう使ったか）
-
 （例：画面の骨組みは ChatGPT に書いてもらった。削除ボタンが効かなかったので、原因を質問して直した。）
 dataやSoundなどの書き方、保存はチャットGPTを使い、エフェクトはクロードを使って、BGMはGeminiで作った
 ## 展示で工夫した点
-
+興味をひけるように画面に演出とタップした時のエフェクトを入れた
 （例：文字を大きくして、来場者が操作しやすいようにした。）
